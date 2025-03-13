@@ -20,4 +20,4 @@ Our 2 dimensional graphic:
 
 ![image](https://github.com/user-attachments/assets/63f454d8-acc6-4207-ac00-14a929907873)
 
-
+Graph should look something like a Mollier diagram, but since the relative humidity values have changed over time, “horizontal jumps” occur relative to absolute humidity (relative humidity is considered a constant in the Mollier diagram). Roughly speaking, a Mollier diagram is drawn with connections at points of different relative humidity.
