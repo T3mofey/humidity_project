@@ -16,3 +16,8 @@ Mollier diaagram:
 
 ![image](https://github.com/user-attachments/assets/2f91b298-2a58-4466-bc19-0d6bec975429)
 
+Our 2 dimensional graphic:
+
+![image](https://github.com/user-attachments/assets/63f454d8-acc6-4207-ac00-14a929907873)
+
+
