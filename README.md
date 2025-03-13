@@ -10,4 +10,4 @@ Diagram:
 
 ![image](https://github.com/user-attachments/assets/33e813a1-61e0-4edc-8ace-afb4fdee3df2)
 
-Vertically are temperature values, horizontally from 2 to 7 lies absolute humidity and the other from 10 to 35 - realtive humidity.
+Vertically are temperature values, horizontally from 2 to 7 lies absolute humidity and the other, from 10 to 35 - realtive humidity.
